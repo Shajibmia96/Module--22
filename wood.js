@@ -8,5 +8,5 @@ function woodCalculation (chairQuantity , tableQuantity, bedQuantity){
 
 }
 
-const totalWood = woodCalculation( 1,0,2)
+const totalWood = woodCalculation( 10,1,3)
 console.log(totalWood);
